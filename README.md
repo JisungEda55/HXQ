@@ -16,5 +16,6 @@ HXQ는 오직 WeHolic 또는 WeHolic의 사전 승인을 받은 기업 또는 �
 
 ## 유려한 디자인.
 HXQR은 기존에는 상상 할 수 없던, 완전히 새로운 디자인으로 우리의 눈에 담깁니다.   QR체계에 대한 생각을 수만번 톺아보고, 마침내 세상에 자취를 들어내는 이 디자인은 사각형의 틀에 같혀있던 인류의 어제와 오늘을 구분지을 하나의 챕터역할도 할 수 있습니다.   여기에 우리의 유려한 HXQR이 있습니다. 천천히 또 완전히 이 디자인에 고취되는 것도 하나의 HXQR을 즐기는 방법입니다. 
+<br>
 <img src="https://i.ibb.co/cDNKk4S/HXQ1.png" width="200px" title="HXQR Image" alt="Orange Triangle, many line in triangle. That is HXQR Code"></img><br/>
 <img src="https://i.ibb.co/thVk145/QXR2.png" width="200px" title="HXQR Name Image" alt="Orange Triangle, many line in triangle. That is HXQR Code and Textbar under that"></img><br/>
