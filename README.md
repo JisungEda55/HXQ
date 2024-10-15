@@ -16,3 +16,4 @@ HXQ는 오직 WeHolic 또는 WeHolic의 사전 승인을 받은 기업 또는 �
 
 ## 유려한 디자인.
 ![HXQR Image](https://i.ibb.co/cDNKk4S/HXQ1.png "HXQRNULL")
+<img src="https://i.ibb.co/cDNKk4S/HXQ1.png" width="450px" title="HXQR Image" alt="Orange Triangle, many line in triangle. That is HXQR Code"></img><br/>
