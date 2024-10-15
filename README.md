@@ -15,5 +15,4 @@ EOS(Everything Open Source)를 추구하는 WeHolic이 외부에 공개하지 �
 HXQ는 오직 WeHolic 또는 WeHolic의 사전 승인을 받은 기업 또는 단체의 어플리케이션 내부에서만 HXQR을 인식할 수 있습니다.<br>신뢰할 수 없는 위/변조 어플리케이션에서는 검증이 불가능 해 실수로 위/변조 어플리케이션을 사용하게 되더라도<br>재빠르게 상황을 인식 및 정보보안 위험으로부터 벗어날 수 있습니다.<br>HXQR만의 고유한 특징인 삼각형 체계는 사용자로 하여금 위/변조 QR코드로 인한 정보보안 위험으로부터 획기적으로 벗어날 수 있도록 돕습니다.<br>모든 WeHolic 시스템(Pay, Bike, Kickboard ect..)은 HXQR을 사용하며, HXQR의 높은 수준의 보안은 범죄자의 범죄시도조차 무효화할 수 있습니다.<br>(위/변조 QR을 위에 덧붙이는 행위 무효화) 
 
 ## 유려한 디자인.
-![HXQR Image](https://i.ibb.co/cDNKk4S/HXQ1.png "HXQRNULL")
-<img src="https://i.ibb.co/cDNKk4S/HXQ1.png" width="450px" title="HXQR Image" alt="Orange Triangle, many line in triangle. That is HXQR Code"></img><br/>
+<img src="https://i.ibb.co/cDNKk4S/HXQ1.png" width="200px" title="HXQR Image" alt="Orange Triangle, many line in triangle. That is HXQR Code"></img><br/>
